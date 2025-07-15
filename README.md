@@ -1,36 +1,97 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelrahman Magdy
-=========================================================================================================================================
+👋 Hello, I'm Abdelrahman Magdy | Frontend Developer (React/Next.js)
+<div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://komarev.com/ghpvc/?username=ABDELRAHMAN097&label=Profile%20views&color=0e75b6&style=flat" alt="ABDELRAHMAN097" /> </div>
+🙋 About Me
+javascript
+const abdelrahman = {
+  pronouns: "He" | "Him",
+  code: [JavaScript, TypeScript, HTML, CSS],
+  frameworks: [React, Next.js, Redux],
+  styling: [TailwindCSS, CSS Modules, Styled Components],
+  tools: [Figma, Firebase, Vite, Framer Motion],
+  architecture: ["responsive design", "SPA", "SSR"],
+  hobbies: ["Coding", "UI Design", "Open Source"],
+  funFact: "I can solve a Rubik's cube in under 2 minutes!"
+};
+📍 Based in Egypt | 🌱 Currently learning Advanced Next.js
+💡 Passionate about creating beautiful, performant web experiences
+🔭 Looking to collaborate on interesting frontend projects
 
-Frontend Web Developer (React - Next)
--------------------------------------
+🧰 Tech Stack
+Frontend
+https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black
+https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white
+https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
+https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white
+https://img.shields.io/badge/-Framer%2520Motion-0055FF?style=flat-square&logo=framer&logoColor=white
 
-I'm a passionate Front-End Developer with over 1 year of experience crafting responsive and high-performance web applications using technologies like React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS, and Framer Motion. I’ve worked on a wide range of projects including e-commerce platforms, booking systems, and professional portfolio websites. Recently, I joined All Safe Software House where I contributed to real-world projects such as Follex Dashboard and a Booking System, focusing on performance, clean UI, and API integration within agile teams. Previously, I collaborated with Code Craft on scalable, user-centered applications, and delivered freelance projects including an online booking platform for a dental clinic and a full corporate site for TISMPro, a Saudi company specializing in equestrian flooring. I’m driven by clean code, smooth user experience, and continuous learning—and when I’m not coding, you’ll find me enjoying football (Tottenham fan ⚪🔵) or sharpening my skills through chess and UI animations.
+Tools
+https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
+https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black
+https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white
 
-* 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [https://abdelrahman-dev-alpha.vercel.app/](http://https://abdelrahman-dev-alpha.vercel.app/)
-* ✉️  You can contact me at [bodymagdy097@gmail.com](mailto:bodymagdy097@gmail.com)
+📈 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=ABDELRAHMAN097&show_icons=true&theme=radical
 
-<a href="https://www.github.com/https://github.com/ABDELRAHMAN097" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/ABDELRAHMAN097?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+https://github-readme-stats.vercel.app/api/top-langs/?username=ABDELRAHMAN097&layout=compact&theme=radical
 
-### Skills
+https://github-readme-streak-stats.herokuapp.com/?user=ABDELRAHMAN097&theme=radical
 
+</div>
+🚀 Featured Projects
+Follex Dashboard
+https://github-readme-stats.vercel.app/api/pin/?username=ABDELRAHMAN097&repo=Follex-Dashboard&theme=radical
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+Booking System
+https://github-readme-stats.vercel.app/api/pin/?username=ABDELRAHMAN097&repo=Booking-System&theme=radical
 
+Dental Clinic Website
+https://github-readme-stats.vercel.app/api/pin/?username=ABDELRAHMAN097&repo=Dental-Clinic&theme=radical
 
-### Socials
+📫 Let's Connect!
+<div align="center"> <a href="https://www.linkedin.com/in/abdelrahman-magdy-4944a3242/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:bodymagdy097@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://abdelrahman-dev-alpha.vercel.app/"> <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://github.com/ABDELRAHMAN097"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center"> <img src="https://github.com/ABDELRAHMAN097/ABDELRAHMAN097/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
+⭐️ From Abdelrahman Magdy
 
-<p align="left"> <a href="https://www.github.com/https://github.com/ABDELRAHMAN097" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdelrahman-magdy-4944a3242/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+🎨 Color Palette Used
+Color	Hex
+Primary	https://via.placeholder.com/10/61DAFB/000000?text=+ #61DAFB
+Secondary	https://via.placeholder.com/10/764ABC/000000?text=+ #764ABC
+Accent	https://via.placeholder.com/10/FFCA28/000000?text=+ #FFCA28
+Dark	https://via.placeholder.com/10/121212/000000?text=+ #121212
+Light	https://via.placeholder.com/10/F8F9FA/000000?text=+ #F8F9FA
+✨ Short Version (For Profile Pinned README)
+markdown
+# 👋 Hi, I'm Abdelrahman | React Developer
 
-### Badges
+💻 Frontend Specialist | 🚀 Building with React & Next.js  
+🌍 Based in Egypt | 📫 bodymagdy097@gmail.com  
 
-rea=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+🔧 Tech Stack:  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css)
 
-<a href="https://github.com/https://github.com/ABDELRAHMAN097" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ABDELRAHMAN097&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+📌 Check my portfolio: [abdelrahman-dev-alpha.vercel.app](https://abdelrahman-dev-alpha.vercel.app/)
+This README features:
 
-<b>Top Repositories</b>
+Animated GitHub stats
 
-<div width="100%" align="center"><a href="https://github.com/https://github.com/ABDELRAHMAN097/https://github.com/ABDELRAHMAN097/Abdelrahman-Dev" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/ABDELRAHMAN097&repo=https://github.com/ABDELRAHMAN097/Abdelrahman-Dev&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+Interactive tech stack badges
+
+Project cards with GitHub API
+
+Snake animation contribution graph
+
+Responsive design that works in dark mode
+
+Both long and short versions
+
+Consistent color scheme
+
+All social links
+
+Clean section organization
